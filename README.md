@@ -1,5 +1,3 @@
-Below is a comprehensive README.md file for your CV Analysis System project. It includes instructions to set up, run, and troubleshoot the project, assuming the fixes from my previous response (handling the OpenAI API key issue and GitHub push protection) have been applied. This README is tailored to your current codebase, which processes CVs and provides a chatbot interface.
-
 CV Analysis System
 A Python-based system to process CVs (PDF/DOCX), extract key information using OpenAI's API or a basic fallback, and provide an interactive chatbot to query the extracted data.
 
